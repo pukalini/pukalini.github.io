@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## OBJECTIVE
+
+Data Science student with a strong foundation in data analysis, statistical modeling, and machine learning, seeking an entry-level Data Analytics position. Equipped with hands-on experience in Python, SQL, and data visualization tools including Tableau and Power BI through comprehensive academic projects. Eager to apply analytical skills and technical expertise to transform data into actionable insights that drive business decisions and contribute to organizational success.
+
 Education
 ======
 **BSc (Hons) in Data Science** — London Metropolitan University (UK) via ESoft University  
@@ -19,6 +23,24 @@ Education
 *Completed: September 2025*
 * Coursework: Programming, Database Design & Development, Data Structures & Algorithms, Web Design & Development, Applied Programming & Discrete Mathematics, Networking, Security, UI/UX Design, Business Process Support, Professional Practice, Computer Research Project
 
+Skills
+======
+**Programming Languages:**
+* Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras
+* R: Markdown, dplyr, ggplot2, tidyr, tseries, lmtest, forecast
+* SQL
+
+**Data Visualization & BI Tools:**
+* Tableau
+* Power BI
+* Microsoft Excel
+
+**Technical Expertise:**
+* Machine Learning
+* Data Analysis
+* Statistical Modeling
+
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -36,14 +58,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -66,3 +81,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
