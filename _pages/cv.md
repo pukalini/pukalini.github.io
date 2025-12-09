@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### BSc (Hons) in Data Science — London Metropolitan University (UK) via ESoft University  
+**Expected Graduation:** September 2026  
+**Coursework:**  
+- Research Project  
+- Big Data and Visualization  
+- Data and Web Development  
+- Artificial Intelligence and Machine Learning  
+- Project Analysis Practice  
+- Career Development Learning 
+
 
 Work experience
 ======
