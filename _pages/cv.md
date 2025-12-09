@@ -11,16 +11,13 @@ redirect_from:
 
 Education
 ======
-### BSc (Hons) in Data Science — London Metropolitan University (UK) via ESoft University  
-**Expected Graduation:** September 2026  
-**Coursework:**  
-- Research Project  
-- Big Data and Visualization  
-- Data and Web Development  
-- Artificial Intelligence and Machine Learning  
-- Project Analysis Practice  
-- Career Development Learning 
+**BSc (Hons) in Data Science** — London Metropolitan University (UK) via ESoft University  
+*Expected Graduation: September 2026*
+* Coursework: Research Project, Big Data and Visualization, Data and Web Development, Artificial Intelligence and Machine Learning, Project Analysis Practice, Career Development Learning
 
+**Higher National Diploma in Software Engineering** — Esoft Metro Campus  
+*Completed: September 2025*
+* Coursework: Programming, Database Design & Development, Data Structures & Algorithms, Web Design & Development, Applied Programming & Discrete Mathematics, Networking, Security, UI/UX Design, Business Process Support, Professional Practice, Computer Research Project
 
 Work experience
 ======
