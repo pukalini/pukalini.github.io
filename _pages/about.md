@@ -22,7 +22,8 @@ In my free time, I'm an avid reader and continuous learner. I regularly complete
 I'm currently seeking entry-level opportunities in data analytics where I can contribute, learn, and grow as a data professional.
 
 Feel free to connect with me via LinkedIn or check out my projects on GitHub.
-<!--
+
+<!-- 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
