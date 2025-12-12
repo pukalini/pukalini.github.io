@@ -23,11 +23,11 @@ repository               : "pukalini/pukalini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pukalini.jpeg"
   name             : "Pukalini Ananthakumar"
   pronouns         : "she/her"  
   bio              : "Data analytics student"
-  location         : "Earth"
+  location         : "Srilanka"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 
