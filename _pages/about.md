@@ -7,21 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Aspiring Data Analyst passionate about transforming data into actionable insights.
+Data Analyst passionate about transforming data into actionable insights.
 
-About me
-======
-I'm currently pursuing my BSc (Hons) in Data Science at London Metropolitan University through ESoft University, graduating in September 2026. I completed my Higher National Diploma in Software Engineering in September 2025. My academic journey has equipped me with solid foundations in programming, database management, data visualization, machine learning, and statistical analysis.
+I'm currently pursuing my BSc (Hons) in Data Science at London Metropolitan University through ESoft University, graduating in September 2026 🎓. I completed my Higher National Diploma in Software Engineering in September 2025 💻. My academic journey has equipped me with solid foundations in programming, database management, data visualization, machine learning, and statistical analysis 📊.
 
-I'm actively building my skills in Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), R (dplyr, ggplot2, tidyr), SQL, Tableau, and Power BI. Through my coursework, I've worked on projects involving big data analysis, predictive modeling, and data visualization, which have strengthened my problem-solving abilities and analytical thinking.
+I'm actively building my skills in Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) 🐍, R (dplyr, ggplot2, tidyr) 📘, SQL, Tableau, and Power BI 📈. Through my coursework, I've worked on projects involving big data analysis, predictive modeling, and data visualization, which have strengthened my problem-solving abilities and analytical thinking 🧠.
 
-My interest in data analytics stems from a genuine curiosity about uncovering patterns and stories hidden within data. I enjoy the challenge of cleaning messy datasets, exploring trends, and creating visualizations that communicate insights clearly. I'm eager to apply these skills in a professional setting and contribute to data-driven decision making.
+My interest in data analytics stems from a genuine curiosity about uncovering patterns and stories hidden within data 🔍. I enjoy the challenge of cleaning messy datasets, exploring trends, and creating visualizations that communicate insights clearly 📉📊. I'm eager to apply these skills in a professional setting and contribute to data-driven decision making 📂.
 
-In my free time, I'm an avid reader and continuous learner. I regularly complete online courses and earn certificates to stay updated with the latest tools and techniques in data science and analytics. I believe in lifelong learning and consistently seek opportunities to expand my knowledge and skills.
+In my free time, I'm an avid reader and continuous learner 📚. I regularly complete online courses and earn certificates to stay updated with the latest tools and techniques in data science and analytics 🏅. I believe in lifelong learning and consistently seek opportunities to expand my knowledge and skills 🌱.
 
-I'm currently seeking entry-level opportunities in data analytics where I can contribute, learn, and grow as a data professional.
+I'm currently seeking entry-level opportunities in data analytics where I can contribute, learn, and grow as a data professional 🚀.
 
-Feel free to connect with me via LinkedIn or check out my projects on GitHub.
+Feel free to connect with me via LinkedIn or check out my projects on GitHub 🤝.
 
 <!-- 
 Getting started
