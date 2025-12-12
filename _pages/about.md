@@ -9,6 +9,8 @@ redirect_from:
 
 Data Analyst passionate about transforming data into actionable insights.
 
+About Me
+======
 I'm currently pursuing my BSc (Hons) in Data Science at London Metropolitan University through ESoft University, graduating in September 2026 🎓. I completed my Higher National Diploma in Software Engineering in September 2025 💻. My academic journey has equipped me with solid foundations in programming, database management, data visualization, machine learning, and statistical analysis 📊.
 
 I'm actively building my skills in Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) 🐍, R (dplyr, ggplot2, tidyr) 📘, SQL, Tableau, and Power BI 📈. Through my coursework, I've worked on projects involving big data analysis, predictive modeling, and data visualization, which have strengthened my problem-solving abilities and analytical thinking 🧠.
