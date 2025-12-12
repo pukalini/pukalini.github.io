@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Quiet Attic Films – C# Database Application"
+excerpt: "A fully designed and implemented relational database system for a film-production company<br/><img src='/images/flim.jpeg'>"
+collection: portfoliobr/><img src='/images/flim.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project was created for Quiet Attic Films, who needed a C# application with a reliable relational database. I designed the database using appropriate modelling tools and then built the full system using C# and SQL, following normalization and good data-modelling practices.
+
+
