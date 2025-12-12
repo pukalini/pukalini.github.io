@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "pukalini.jpeg"
   name             : "Pukalini Ananthakumar"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Data analytics student"
   location         : "Srilanka"
   employer         : #"Red Brick University"
